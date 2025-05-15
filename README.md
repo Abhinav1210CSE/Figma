@@ -37,6 +37,8 @@ Figma
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/1ce92d65-b90a-4980-9bcc-938d8a0c9b40)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
